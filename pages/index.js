@@ -1,4 +1,7 @@
+
 import { Hero } from "../sections";
+import { Agency } from "../sections/Agency/Agency";
+
 
 const heroProps = {
   image: { src: "/img/heroimg.png", alt: "", width: 1000, height: 1680 },
@@ -20,6 +23,7 @@ export default function Home() {
       </head>
       <div>
         <Hero {...heroProps} />
+        <Agency/>
         {/** Other sections */}
       </div>
     </>
