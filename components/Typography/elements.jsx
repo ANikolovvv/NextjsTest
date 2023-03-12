@@ -60,7 +60,7 @@ export const Title = styled.h2`
   font-weight: 600;
   text-align: center;
   align-items: center;
-  margin:0;
+  margin: 0;
 `;
 export const SecondTitle = styled.h3`
   font-family: Poppins;
@@ -69,5 +69,5 @@ export const SecondTitle = styled.h3`
   font-weight: 300;
   text-align: center;
   align-items: center;
-  margin:0;
+  margin: 0;
 `;
