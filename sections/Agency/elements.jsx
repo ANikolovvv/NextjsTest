@@ -24,7 +24,7 @@ export const HeaderBox = styled.div`
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 2px;
+  gap: 0px;
 `;
 export const CardsBox = styled.div`
   margin-bottom: 40px;
