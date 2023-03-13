@@ -16,7 +16,7 @@ export const StyledButtonCard = styled.button`
   min-height: 70px;
   padding: 18px;
   cursor: pointer;
-  border: 1px solid;
+  border: 2px solid;
   color: white;
 
   &:nth-child(1) {
@@ -31,6 +31,6 @@ export const StyledButtonCard = styled.button`
     max-width: 570px;
   }
   &:hover {
-    border: 1px solid #03a9f4;
+    border: 2px solid #03a9f4;
   }
 `;
