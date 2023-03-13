@@ -4,6 +4,7 @@ export const StyledCardTitle = styled.h1`
   margin: 0;
   color: black;
   font-size: 24px;
+  font-family: Poppins;
   &:hover {
     color: #03a9f4;
     text-decoration: underline;
@@ -25,11 +26,11 @@ export const StyledCardsBoxTitle = styled.div`
   margin-left: 20px;
 `;
 export const StyledCardParagraph = styled.p`
+  font-family: Poppins;
   margin: 0px;
   padding: 0px;
   text-align: left;
   color: black;
   font-size: 20px;
   letter-spacing: 1px;
-  font-family: sans-serif;
 `;
