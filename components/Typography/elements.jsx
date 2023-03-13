@@ -53,21 +53,23 @@ export const StyledSectionParagraph = styled((props) => <p {...props} />)`
   line-height: 1.5rem;
   font-weight: 400;
 `;
-export const Title = styled.h2`
+export const Title = styled.h1`
   font-family: Poppins;
   font-size: 2.5rem;
   line-height: 4.375rem;
   font-weight: 600;
   text-align: center;
   align-items: center;
-  margin: 0;
+  margin: 0px;
+  padding: 0px;
 `;
-export const SecondTitle = styled.h3`
+export const SecondTitle = styled.h2`
   font-family: Poppins;
   font-size: 1.2rem;
   line-height: 4rem;
   font-weight: 300;
   text-align: center;
   align-items: center;
-  margin: 0;
+  margin: 0px;
+  padding: 0px;
 `;
