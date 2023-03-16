@@ -25,6 +25,10 @@ export const StyledTextContainer = styled(({ ...props }) => <div {...props} />)`
   width: 30%;
   margin-left: 11.125rem;
   font-family: sans-serif;
+  @media (max-width: 1024px) {
+    margin-left:0px;
+ 
+  }
 `;
 
 export const StyledCTAContainer = styled(({ ...props }) => <div {...props} />)`
