@@ -38,7 +38,7 @@ export const StyledCardParagraph = styled.p`
   margin: 0px;
   padding: 0px;
   text-align: left;
-  color: black;
+  color: blue;
   font-size: 20px;
   letter-spacing: 1px;
   @media (max-width: 600px) {

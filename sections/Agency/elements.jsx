@@ -20,7 +20,7 @@ export const Container = styled.div`
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
-  min-height: 70vh;
+  min-height: 30vh;
   margin: 0px 40px;
   padding: 0px;
 
